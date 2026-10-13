@@ -3,8 +3,7 @@
 ### CLAIM-001
 
 **Claim:**  
-AI-assisted search can help researchers locate relevant academic literature.
-
+ Apple's claim is that it is working to protect the environment by using recycled materials, reducing pollution, and making its products more environmentally friendly.
 **Source:**  
 [Author, Year]
 
