@@ -8,26 +8,25 @@
 [Author, Year]
 
 **DOI:**  
-10.xxxx/xxxxx
+N/A if the source does not have a DOI.
 
 **Source Found Via:**  
-Google Scholar
+Chatgpt/Apple official website.
 
 **Verified With:**  
-Crossref + scite
+Check the original source and compare its information
 
 **Evidence Location:**  
-Page 4, paragraph 2
+Add the exact page, paragraph, or section that supports the claim.
 
 **Assessment:**  
-SUPPORTED
+To be determined after checking the evidence.
 
 **Confidence:**  
-High
+To be determined after checking the evidence.
 
 **Notes:**  
-The paper directly evaluates AI-assisted literature discovery.
-You can use standardized assessments:
+Apple makes environmental claims about its products and materials. The evidence should checked see which parts of the claim are supported.
 
 SUPPORTED
 PARTIALLY SUPPORTED
