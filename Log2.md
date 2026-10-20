@@ -53,23 +53,23 @@ verification procedures, corrections, and research decisions.
 
 ## SOURCE-001
 
-**Title:**  
-**Authors:**  
-**Publication:**  
-**Year:**  
-**DOI:**  
+**Title:** Apple Intelligence and Siri 
+**Authors:** Apple
+**Publication:** Apple Official Website
+**Year:** 2026
+**DOI:** N/A
 
-**Found Via:**  
+**Found Via:** Apple website 
 
-**Publisher:**  
+**Publisher:** Apple Inc.
 
-**DOI Verified:** Yes / No
+**DOI Verified:** No
 
-**Publisher Verified:** Yes / No
+**Publisher Verified:** Yes
 
-**Citation Verified:** Yes / No
+**Citation Verified:** Yes
 
-**Notes:**  
+**Notes:**  This source explains Apples AI features, including Siri, writing tools, photo editing, and privacy protection.
 
 ---
 
