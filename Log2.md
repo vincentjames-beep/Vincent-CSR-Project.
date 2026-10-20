@@ -5,9 +5,9 @@ verification procedures, corrections, and research decisions.
 
 ## Project Information
 
-- Project:
-- Author:
-- Started:
+- Project:3
+- Author:Vincent James
+- Started:10/20/26
 - Last Updated:
 
 ---
