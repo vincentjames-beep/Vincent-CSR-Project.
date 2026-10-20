@@ -7,7 +7,7 @@ verification procedures, corrections, and research decisions.
 
 - Project:3
 - Author:Vincent James
-- Started:10/20/26
+- Started:10/20/2026
 - Last Updated:
 
 ---
@@ -16,13 +16,13 @@ verification procedures, corrections, and research decisions.
 
 | Tool | Purpose | Model/Version | Date Used |
 |---|---|---|---|
-| ChatGPT | Research / analysis |GPT-6 | |
-| Perplexity | Web research | | |
-| Google Scholar | Academic search | | |
-| Consensus | Evidence search | | |
-| scite | Citation verification | | |
-| Crossref | DOI verification | | |
-| Zotero | Citation management | | |
+| ChatGPT | Research / analysis |GPT-6 |-|
+| Perplexity | Web research |not used |-|
+| Google Scholar | Academic search |not used |-|
+| Consensus | Evidence search |not used|-|
+| scite | Citation verification |not used |-|
+| Crossref | DOI verification |not used |-|
+| Zotero | Citation management |not used |-|
 
 ---
 
@@ -30,21 +30,22 @@ verification procedures, corrections, and research decisions.
 
 ## AI-001
 
-**Date:**  
-**Tool:**  
-**Purpose:**  
+**Date:** 10/20/2026 
+**Tool:** ChatGPT 
+**Purpose:** Research and analysis about Apple. 
 
 **Prompt:**
-> 
+> Research Apples use of artificial intelligence and explain its main AI tools and features.
 
 **Result:**
-- 
+- Apple uses AI through Apple Intelligence and Siri to help users write, summarize information, edit photos, and get answers to questions. Apple also integrates ChatGPT into supported features.
 
 **Sources Returned:**
-- 
+- Apple Intelligence - Apple Support
+- Using ChatGPT with Apple Intelligence
 
 **Action Taken:**
-- 
+- Used the information to understand Apples AI technology and its uses.
 
 ---
 
